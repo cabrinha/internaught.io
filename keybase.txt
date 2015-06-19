@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/yuppie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://internaught.io
+  * I am yuppie (https://keybase.io/yuppie) on keybase.
+  * I have a public key with fingerprint 2D08 49EB 1993 4E45 A65E  6FA9 CF39 B22E CA92 DBF9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "2d0849eb19934e45a65e6fa9cf39b22eca92dbf9",
+            "host": "keybase.io",
+            "key_id": "CF39B22ECA92DBF9",
+            "uid": "b3b62f2395d74e44155d7ae9b8f11d19",
+            "username": "yuppie"
+        },
+        "merkle_root": {
+            "ctime": 1427323005,
+            "hash": "cc3c0a2dd39a3dfc5996ae6a45d3276cb5c76eeedeb88edd007862834b0be70fd2373e652009e9029d81be591b311fcc2063f3ca73f790ad89b48caa587c317c",
+            "seqno": 183819
+        },
+        "service": {
+            "hostname": "internaught.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1427323074,
+    "expire_in": 157680000,
+    "prev": "d50251e6e6f2b4c5da3c50be5281df88bcfdd8d12229ba69c7aee0fe244fc680",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+owFdUnlMFUcchodHPUuDCiSa6IpaA+Lu7DlgU4oUjdoWSVFsIo/dmVne8mT38a76
+JNRYKY2pNUqk2oJWEY0KhohCBRVvC76aV1r8w9vUKiE01AsrCtpdStNj/5qd+eb7
+fcdsHhcRZgsPwfrES2XX+8KDXUpYVpR0tohSDBygkoootEojutda6XIBoZIoJwko
+sockasZU3cAkMd8zdQiTQPmJ26MZuomiE8VEkSpOsODWZVXT84jb5dYsLgpgWuIg
+URgIWY5wvCzwRFBliFQWKgAQJEOAFRWalA7D4/3PVGqQ065hc3d+OgtTAXh3/jsQ
+pKWmW3jf4IHCKgJQAQt5LJoDOIY3FzKBiqQyDGYGgR7iHrIU8LlcGrHUFhC3cxWx
+uw1j0DLyahaA4YDIApameVOP7HGYVxBiES0DjFkos1hFPISCTASZ4zELRAEpPBIF
+QggmiiQRjGlalAQgsZxCK0SkVQxYkSUCD2gaEkgDiCVGITxkFJZhVIQALbAqi2SR
+VUVIy1iCCichWeYlEbGMiEwDHlKoG6Y4iZUYWGz9u/0aIpZuK7Qhb2bglk9fnsP7
+V3gut+E1kLHKPHN4va4ky7Y34LKwHxPFfmiIxq5oOjZL+3erjAn9XyQil0CR1S7N
+TeyaheBFQaLNz5pD/CYn5mnAM0Qw+wUKh3gss4g3M+CBxGBVkhSkYixhBgAAFVmA
+yKyJ0CoBHKcik+sfo6ypU84zKT1ani57fW6zsQ22ycPCwm1hI4bbrGcbNnpU5N9v
++fGM119Kt3UlEwUL/LvpDOfc105U3v3R37X0gP3hG4b05dOQtPN5eWvKLc/24wt3
+PP1jfaBtYM22mtIpRseSmty+9llUQRGV8hE1K2fSzAl1s4umFX4957Mq2N8iZzVH
+Jb/o6R0xZesXVY9rM9I+z2rM9E6vtO+7lKOmR92isyPSgw0jfWs6b9Q48hudvb3z
+1pUTeyg5aUV8zNrbl/WmO025F8uq8pa2r1v9wOW5W3a+OtZ2liyv9453dPWf+upq
+Nqy4n/5qZrdn0e+l7z/8rmDXTV/7mxNnp30Q6yh7K2H15K2VeM9Jf8aVQ/2L9m5L
+egTXL+5NbSuJK+kvsf8WGjjvyyzcNInsWLQgpa508fNlxaXjvj1zcWN9ZMS1pOyf
+O4JVux1j9Aa7viWyrTSk73nSuRZkthxO1aKXj0sbndVycNP0qu/J0e0dz+aciUdv
+R294pK8Yyy3YlbXlWGT3knv1O7NfLKzO78r5dVPU/dO24NVTpVlRoYryyxdWNtf/
+tH9vc9Sdjs2bG4ddcxJ3yrPjG49MGOvsnx1XlxyTFpMW/PTDwIXAmJMjm37ZPy36
+aue8uIaa6RHJGd0ndhTfC4tdMyM2Y/wnr0a2x9QcaCXNT3Djy6O9188tewD29fh9
+o1aei7jxNPdYz4gD8ai6+vT8mRV71rXWJpR8E5q42zlgu+mpHf7eg+FHQj9cAXP7
+DgcrDv4J
+=XyYZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yuppie
+
+==================================================================
