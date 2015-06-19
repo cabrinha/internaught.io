@@ -322,7 +322,11 @@ body {
 }
 
 a {
+<<<<<<< HEAD
   border-bottom: 1px solid #e85151;
+=======
+  border-bottom: 1px solid #ced9e0;
+>>>>>>> 3c6152bcef2eba8c5e47c9381a62ca19ac285fc6
 }
 
 a:hover {
@@ -406,11 +410,18 @@ header a:active, header a:focus {
 }
 header nav {
   text-align: right;
+<<<<<<< HEAD
   padding-top: 2.5em;
 /* float: left; */
   display: block;
 /*  margin-right: 2.35765%; */
   width: 100%;
+=======
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 74.41059%;
+>>>>>>> 3c6152bcef2eba8c5e47c9381a62ca19ac285fc6
 }
 header nav:last-child {
   margin-right: 0;
@@ -429,7 +440,11 @@ header nav:last-child {
   }
 }
 header nav ul {
+<<<<<<< HEAD
 /* # Comment for padding #  padding-top: 0.5em; */
+=======
+  padding-top: 0.5em;
+>>>>>>> 3c6152bcef2eba8c5e47c9381a62ca19ac285fc6
   line-height: 60px;
 }
 header nav ul li {
@@ -445,20 +460,32 @@ header nav ul li {
 header nav ul li a {
   font-weight: bold;
 }
+<<<<<<< HEAD
 
 header nav ul li a.bordered { 
+=======
+header nav ul li a.bordered {
+>>>>>>> 3c6152bcef2eba8c5e47c9381a62ca19ac285fc6
   border-radius: 0.2em;
   padding: 0.4em;
   padding-left: 0.8em;
   padding-right: 0.8em;
+<<<<<<< HEAD
   border: 2px solid #e85151; 
+=======
+  border: 2px solid #e85151;
+>>>>>>> 3c6152bcef2eba8c5e47c9381a62ca19ac285fc6
 }
 
 #content {
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
+<<<<<<< HEAD
   padding-top: 2em;
+=======
+  padding-bottom: 2em;
+>>>>>>> 3c6152bcef2eba8c5e47c9381a62ca19ac285fc6
   opacity: 0;
   -webkit-transform: translateY(50px);
   -moz-transform: translateY(50px);
@@ -525,7 +552,11 @@ header nav ul li a.bordered {
   margin-left: auto;
   margin-right: auto;
   padding-top: 2em;
+<<<<<<< HEAD
 /*  padding-bottom: 5em; */
+=======
+  padding-bottom: 5em;
+>>>>>>> 3c6152bcef2eba8c5e47c9381a62ca19ac285fc6
 }
 #content section.row:after {
   content: "";
@@ -550,7 +581,11 @@ header nav ul li a.bordered {
   width: 48.82117%;
   border-top: 2px solid #ced9e0;
   padding-top: 1em;
+<<<<<<< HEAD
 /*  padding-bottom: 3em; */
+=======
+  padding-bottom: 3em;
+>>>>>>> 3c6152bcef2eba8c5e47c9381a62ca19ac285fc6
 }
 #content section.row .col:last-child, #content section.row .col-full:last-child {
   margin-right: 0;
