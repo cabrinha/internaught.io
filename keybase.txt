@@ -6,27 +6,19 @@ I hereby claim:
 
   * I am an admin of http://internaught.io
   * I am yuppie (https://keybase.io/yuppie) on keybase.
-  * I have a public key with fingerprint 2D08 49EB 1993 4E45 A65E  6FA9 CF39 B22E CA92 DBF9
+  * I have a public key with fingerprint 81AD 6B00 980E 971A FE75  E58C 4704 6072 0A3D 7525
 
 To do so, I am signing this object:
 
 {
     "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.7.7"
-        },
         "key": {
-            "fingerprint": "2d0849eb19934e45a65e6fa9cf39b22eca92dbf9",
+            "fingerprint": "81ad6b00980e971afe75e58c470460720a3d7525",
             "host": "keybase.io",
-            "key_id": "CF39B22ECA92DBF9",
+            "key_id": "470460720a3d7525",
+            "kid": "0101d703de9322b70f2b8b4ddcae03a693d82e17b7534ad8e744585c5d57fe2619ec0a",
             "uid": "b3b62f2395d74e44155d7ae9b8f11d19",
             "username": "yuppie"
-        },
-        "merkle_root": {
-            "ctime": 1427323005,
-            "hash": "cc3c0a2dd39a3dfc5996ae6a45d3276cb5c76eeedeb88edd007862834b0be70fd2373e652009e9029d81be591b311fcc2063f3ca73f790ad89b48caa587c317c",
-            "seqno": 183819
         },
         "service": {
             "hostname": "internaught.io",
@@ -35,43 +27,42 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1427323074,
+    "ctime": 1434775138,
     "expire_in": 157680000,
-    "prev": "d50251e6e6f2b4c5da3c50be5281df88bcfdd8d12229ba69c7aee0fe244fc680",
-    "seqno": 3,
+    "prev": "e1f0d66fc59e4f7c06eb143c61cc38145ca1dec66af1f1c8bbcc7f987fb60c29",
+    "seqno": 16,
     "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v2.0.22 (GNU/Linux)
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
 
-owFdUnlMFUcchodHPUuDCiSa6IpaA+Lu7DlgU4oUjdoWSVFsIo/dmVne8mT38a76
-JNRYKY2pNUqk2oJWEY0KhohCBRVvC76aV1r8w9vUKiE01AsrCtpdStNj/5qd+eb7
-fcdsHhcRZgsPwfrES2XX+8KDXUpYVpR0tohSDBygkoootEojutda6XIBoZIoJwko
-sockasZU3cAkMd8zdQiTQPmJ26MZuomiE8VEkSpOsODWZVXT84jb5dYsLgpgWuIg
-URgIWY5wvCzwRFBliFQWKgAQJEOAFRWalA7D4/3PVGqQ065hc3d+OgtTAXh3/jsQ
-pKWmW3jf4IHCKgJQAQt5LJoDOIY3FzKBiqQyDGYGgR7iHrIU8LlcGrHUFhC3cxWx
-uw1j0DLyahaA4YDIApameVOP7HGYVxBiES0DjFkos1hFPISCTASZ4zELRAEpPBIF
-QggmiiQRjGlalAQgsZxCK0SkVQxYkSUCD2gaEkgDiCVGITxkFJZhVIQALbAqi2SR
-VUVIy1iCCichWeYlEbGMiEwDHlKoG6Y4iZUYWGz9u/0aIpZuK7Qhb2bglk9fnsP7
-V3gut+E1kLHKPHN4va4ky7Y34LKwHxPFfmiIxq5oOjZL+3erjAn9XyQil0CR1S7N
-TeyaheBFQaLNz5pD/CYn5mnAM0Qw+wUKh3gss4g3M+CBxGBVkhSkYixhBgAAFVmA
-yKyJ0CoBHKcik+sfo6ypU84zKT1ani57fW6zsQ22ycPCwm1hI4bbrGcbNnpU5N9v
-+fGM119Kt3UlEwUL/LvpDOfc105U3v3R37X0gP3hG4b05dOQtPN5eWvKLc/24wt3
-PP1jfaBtYM22mtIpRseSmty+9llUQRGV8hE1K2fSzAl1s4umFX4957Mq2N8iZzVH
-Jb/o6R0xZesXVY9rM9I+z2rM9E6vtO+7lKOmR92isyPSgw0jfWs6b9Q48hudvb3z
-1pUTeyg5aUV8zNrbl/WmO025F8uq8pa2r1v9wOW5W3a+OtZ2liyv9453dPWf+upq
-Nqy4n/5qZrdn0e+l7z/8rmDXTV/7mxNnp30Q6yh7K2H15K2VeM9Jf8aVQ/2L9m5L
-egTXL+5NbSuJK+kvsf8WGjjvyyzcNInsWLQgpa508fNlxaXjvj1zcWN9ZMS1pOyf
-O4JVux1j9Aa7viWyrTSk73nSuRZkthxO1aKXj0sbndVycNP0qu/J0e0dz+aciUdv
-R294pK8Yyy3YlbXlWGT3knv1O7NfLKzO78r5dVPU/dO24NVTpVlRoYryyxdWNtf/
-tH9vc9Sdjs2bG4ddcxJ3yrPjG49MGOvsnx1XlxyTFpMW/PTDwIXAmJMjm37ZPy36
-aue8uIaa6RHJGd0ndhTfC4tdMyM2Y/wnr0a2x9QcaCXNT3Djy6O9188tewD29fh9
-o1aei7jxNPdYz4gD8ai6+vT8mRV71rXWJpR8E5q42zlgu+mpHf7eg+FHQj9cAXP7
-DgcrDv4J
-=XyYZ
+yMM8AnicbZJ7UFRVHMcXNghBEsVxRg2FGwKtq9z3gzJjajIJYqRlnYTc7uNcuCC7
+y+6FQEVlQcraZKgIwTBCEMYVFxJzwKFl4ymOqYST2IBM5iOHSrLk4Th2L9l/nX/O
+Ob/f9/s55/ebX2+wVhPoMzK1Kf711e1HfM574/M0qaW/c7sgziIUQnG7oGwwv4mS
+OQPYrDbJLENxEI2wAsnBMEPDgKEQVgQUAQiaxykYJ2EKhVlMoAiUgPRQpsWuOhQM
+x9rBesmixJSLSRKU6P/os+cTMAIjAgVjAmAwFOUoWEQ5msMFgWcBjLEkgwk0ChCK
+owgMZwUaUDhO0ARPCAQlApREGMDDrILLm8dxGEeiIooxhEDhAMcRQjmwgOFoEUEE
+hFGFdmAzszlAURfmWa0SgIr0kBLLl3igNkCt40le6YGqzcvIlP+tx2qzyBbeskPJ
+ZcqyNU61yoVWVfse4ExPKCZOMgtKGxVDPrDZJYsZikMUJS9LKhbBMZyiCASj9RAo
+sEo2YJJUBUGRNKws9RmQryABIsICSYo8wQBcpHiYBJxi5kmE5zEawQmeRQTAkyQr
+IiLC0xzH85TI0JTIkTCPqsXaQa7ZorBJ5Z9shsK0SxlmVs6zKVV/501/SuMTqPH3
+81UnQRO4IOS/+Xg7IETj3LrZGb7IO/xS5Jy+02ckZ6P7yuOBsDVEcaQuEa3ouDq7
+IaDt3S0ltvRlF798wbW8WHb4hpeYDrl+hooOxGY1Rk+Eniu+7z9wzJvgH/rDnaAV
+sVMR34/16VquvVK+yhsqiv21ctJYtHvOFnl6+7ZqP3zCkPr5cOP4tW+2ex7H9eGZ
+0hlndI0vO7QOciVqR3tzIuseHl67vzTkJ4N+9OkTZ/7e97DMORaGX49wOzrXb+mZ
+WHe5ISJl9vJe93Ws6MDK24Pjx29zcmtJzIaFP46XN+7bVJHwYNvS40REkmNtkWdx
+y+TQRO3N5jf6Olt2tjWRH1R+dHju46EUbUGMWdf1l9bYTibtwaI6CiefcRscr3KO
+HWHO5zI8wS7t+9OV1rPssZODp5Z039rcdLKs23h+UdnEb80x1QdnulLqv3UbhZ03
+Rjx3HqzY/fUf0fsHjv65JGGNI360ubZ+WN8963PhEUG15tYFHWQHp2d73qmfeq0t
+/EhW4dY5/0+Dn71UeqKhIOELpre43RKanBpwq6bmXlMjqKo2LvykyqNzhWVVkh/O
+GtLIX2PerPCsOndjeGZv1NWx9KDJ53NPHQpzOzc26JNjb47+cn/PVwvu3k27ePaz
+01XlL9ZZ3hLCF3fNJHbFvhzFtTQuNx9NnxFDOqaXLuvR7V55KenKhfis/jQ/V+s9
+o6HfL3l17KPsfwBOwayM
+=c7lW
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -80,3 +71,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/yuppie
 
 ==================================================================
+
