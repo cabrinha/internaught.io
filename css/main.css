@@ -452,11 +452,13 @@ header nav ul li a {
 }
 
 header nav ul li a.bordered { 
+  display: inline-block;
   border-radius: 0.2em;
   padding: 0.4em;
   padding-left: 0.8em;
   padding-right: 0.8em;
   border: 2px solid #e85151; 
+  margin-top: 10%;
 }
 
 #content {
